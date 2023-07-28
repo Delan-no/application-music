@@ -1,4 +1,7 @@
-.fixed{
+/* .fixed{
     position: fixed;
     top: 0%;
+} */
+.card{
+    margin-top: 10rem;
 }
